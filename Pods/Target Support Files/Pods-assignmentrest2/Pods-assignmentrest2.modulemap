@@ -1,0 +1,6 @@
+framework module Pods_assignmentrest2 {
+  umbrella header "Pods-assignmentrest2-umbrella.h"
+
+  export *
+  module * { export * }
+}
